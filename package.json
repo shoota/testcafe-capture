@@ -1,0 +1,22 @@
+{
+  "name": "testcafe-capture",
+  "version": "1.0.0",
+  "description": "testcafe screenshot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shoota/testcafe-capture.git"
+  },
+  "keywords": [
+    "testcafe"
+  ],
+  "author": "shoota",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shoota/testcafe-capture/issues"
+  },
+  "homepage": "https://github.com/shoota/testcafe-capture#readme"
+}
