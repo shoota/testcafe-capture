@@ -1,0 +1,2 @@
+# testcafe-capture
+testcafeでスクショとる
