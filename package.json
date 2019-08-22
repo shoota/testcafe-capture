@@ -4,7 +4,7 @@
   "description": "testcafe screenshot",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "testcafe 'chrome --no-sandobox' -s ./screenshot/ test/"
   },
   "repository": {
     "type": "git",
